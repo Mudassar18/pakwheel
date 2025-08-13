@@ -1,0 +1,15 @@
+1. Navigate Pages (This function will change the page content based on the navbar selection).
+2. video pause/play (This function will play or pause the video based on its current state).
+3. Filter the car/bike of over choice
+4. shows the alert message when we add new car/bike details(displays success or error alerts).
+5. Vehicle Description(when we click on image it shows it complete description on the next page).
+6. Clear Search Filters(This function resets the filter inputs in the car and bike sections).
+7. Sort Listings(This function sorts the car or bike listings by price).
+8. Show Confirmation Dialog(This function shows a confirmation dialog before deleting a listing).
+9. Display Loading Spinner(This function shows a loading spinner while data is being fetched).
+10. Navigate to Top of the Page(This function scrolls the page back to the top).
+11. Favorites Feature(Enables users to mark cars or bikes as favoritesand store their selections).
+12. Flip the image(The clicked image rotates or flips to reveal another angle of the car).
+
+
+
